@@ -174,7 +174,7 @@ h1, h2, h3, h4, h5, h6 {
 
 p.moto{
   color: white;
-  
+
   font-size: 26px;
 }
 
@@ -1054,7 +1054,7 @@ table a, #comments a {
 
 .tooltip-right {
   top: -5px;
-  left: 125%;  
+  left: 125%;
 }
 
 .tooltip-right::after {
@@ -1079,6 +1079,10 @@ table a, #comments a {
 .name h4 {
   font-size: 22.5px;
   margin-top: 10px;
+}
+/* ---------------------------------------------Alunmi---------------------------------------- */
+.alumni-msg {
+  text-align: justify;
 }
 /* ------------------------------------------------------------------------------------------------------------ */
 
