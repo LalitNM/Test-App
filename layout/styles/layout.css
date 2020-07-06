@@ -1094,6 +1094,13 @@ table a, #comments a {
   text-align: justify;
   text-transform: none;
 }
+
+.collage {
+  margin: auto;
+  height: 500px;
+  width: 500px;
+  margin-bottom: 5rem;
+}
 @media screen and (max-width:900px) {
   .alumni-name {
     display: block;
