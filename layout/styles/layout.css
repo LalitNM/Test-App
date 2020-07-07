@@ -1095,10 +1095,11 @@ table a, #comments a {
   text-transform: none;
 }
 
+.alumni-heading {
+  padding-bottom: 2rem;
+}
 .collage {
   margin: auto;
-  height: 500px;
-  width: 500px;
   margin-bottom: 5rem;
 }
 @media screen and (max-width:900px) {
